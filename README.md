@@ -15,13 +15,13 @@ These are Udacity Beginner Android Development Course apps with 2021 Compatibili
 ![Screenshot](https://github.com/IjlalAhmad845/Udacity-AndroidBeginnerApps/blob/main/images/CourtCounter.png)
 
 ### Miwok App (MultiScreen and Fragments)
-![enter image description here](https://github.com/IjlalAhmad845/Udacity-AndroidBeginnerApps/blob/main/images/miwok1.png)![enter image description here](https://github.com/IjlalAhmad845/Udacity-AndroidBeginnerApps/blob/main/images/miwok1.png)![enter image description here](https://github.com/IjlalAhmad845/Udacity-AndroidBeginnerApps/blob/main/images/miwok1.png)
+![enter image description here](https://github.com/IjlalAhmad845/Udacity-AndroidBeginnerApps/blob/main/images/miwok.png)
 
 ### Earthquake Report App (API, HTTP Networking)
 ![enter image description here](https://github.com/IjlalAhmad845/Udacity-AndroidBeginnerApps/blob/main/images/quake.png)
 
 ### Pets App (Database Handling)
-![enter image description here](https://github.com/IjlalAhmad845/Udacity-AndroidBeginnerApps/blob/main/images/pets1.png)![enter image description here](https://github.com/IjlalAhmad845/Udacity-AndroidBeginnerApps/blob/main/images/pets2.png)![enter image description here](https://github.com/IjlalAhmad845/Udacity-AndroidBeginnerApps/blob/main/images/pets3.png)
+![enter image description here](https://github.com/IjlalAhmad845/Udacity-AndroidBeginnerApps/blob/main/images/pets.png)
 
 ## Additional Info
 As per 2021, Udacity Courses are bit too old and hence there are too many Compatibility Issues that are encountered by many people importing 4-5 years old Android projects form Udacity. So here are all the Beginner Android development Course apps Compiled in 2021. All these apps are well tested and are in working condition. Just import them in your studio and there will be no compatibility issue.
